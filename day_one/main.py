@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 def generate_band_name():
     # take street and pet as inputs
     # return 'street pet' as band name
